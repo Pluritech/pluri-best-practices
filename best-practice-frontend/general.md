@@ -3,6 +3,7 @@
 ## 1 - Using Husky (Git Hooks) to validate some things important to your project as:
 * Run Lint before every commit.
 * Run tests before every push.
+
 This way can help your team to keep the codes with very best practices in JS.
 
 ### How to configure this:
