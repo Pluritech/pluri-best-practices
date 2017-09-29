@@ -2,6 +2,7 @@
 One compiled of best practices in code that we use and held it up.
 
 # Frontend
+- [General](best-practice-frontend/general.md)
 - [Angular+](best-practice-frontend/ng.md)
 - [Ionic](best-practice-frontend/ionic.md)
 
