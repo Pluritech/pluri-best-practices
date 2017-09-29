@@ -1,4 +1,4 @@
-#General best practices
+# General best practices
 
 ## 1 - Using Husky (Git Hooks) to validate some things important to your project as:
 * Run Lint before every commit.
