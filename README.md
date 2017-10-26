@@ -15,6 +15,3 @@ One compiled of best practices in code that we use and held it up.
 * [Luis H. Moreno](https://github.com/luishmcmoreno), Pluriworker Developer Front
 * [Mateus Durães](https://github.com/mateusduraes), Pluriworker Developer Front
 * [Lucas Corrêa](https://github.com/lucascco), Pluriworker Developer Front
-
-* [Willian Justen](https://github.com/willianjusten), By inspiring us to built this repo through your awesome repositories
-as [awesome-svg](https://github.com/willianjusten/awesome-svg)
